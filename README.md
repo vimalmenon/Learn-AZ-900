@@ -2,6 +2,7 @@
 
 Topics:
 - Describe cloud computing (25% - 30%)
+  - Define cloud computing
 - Describe Azure Architecture and Service (35% - 40%)
 - Describe Azure management and governance (30% - 35%)
 
