@@ -57,8 +57,9 @@
           - Doesn't improve availability
         - Horizontal Scaling
       - Impact on Cost
-      - 
-      
+    - Elasticity
+      - Ability to scale up and scale down based on changing demand
+      - AutoScaling
 - Describe Azure Architecture and Service (35% - 40%)
 - Describe Azure management and governance (30% - 35%)
 
