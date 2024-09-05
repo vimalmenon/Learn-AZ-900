@@ -25,12 +25,12 @@
       - Instance Size
       - Disk Type
       - Bandwidth
-      - Backup Storage
+        - Backup Storage
       - Reservation
       - Support Agreement
       - API Choice
       - Serverless
-      - Backup Storage
+      Backup Storage
     - Payment 
       - Pay for time
       - Pay for GB
@@ -83,8 +83,25 @@
     - As a Service:
       - Service can be rented for a short time
     - IaaS
+      - Computing
+        - Virtual Machine
+      - Storage
+        - Azure Storage
+      - Networking
+        - Virtual Networking
+      - Low Level service
     - PaaS
+      - Azure App Service
+      - Azure SQL Database
+      - Load Balancer
+      - Firewall
     - SaaS
+      - OneDrive
+      - Skype
+      - Office 365
+    - Serverless
+      - Database Service
+      - Serverless Function
 - Describe Azure Architecture and Service (35% - 40%)
 - Describe Azure management and governance (30% - 35%)
 
