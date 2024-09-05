@@ -61,7 +61,7 @@
       - Ability to scale up and scale down based on changing demand
       - AutoScaling
     - Reliability
-      - Ability to perform intended function without interruption and high <b>degree of accuracy<b>
+      - Ability to perform intended function without <b>interruption</b> and <b>high degree of accuracy</b>
       - Accuracy and without interruption is the key
 - Describe Azure Architecture and Service (35% - 40%)
 - Describe Azure management and governance (30% - 35%)
