@@ -49,6 +49,16 @@
         - Cyber Attacks
         - Software Bugs
         - Poor scaling
+    - Scalability
+      - Can Add and Remove Resources
+      - Type of scaling
+        - Vertical Scaling
+          - It can reach is limit
+          - Doesn't improve availability
+        - Horizontal Scaling
+      - Impact on Cost
+      - 
+      
 - Describe Azure Architecture and Service (35% - 40%)
 - Describe Azure management and governance (30% - 35%)
 
