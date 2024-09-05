@@ -15,8 +15,10 @@
       - It's cloud is only on invitation basis to selected users
       - Azure provide private Cloud
     - Hybrid Cloud
-      - 
-  
+      - It's mixture between Public and Private Cloud
+      - Best of both worlds
+    - Difference between public vs private vs hybrid
+  - Compare cloud pricing models
 - Describe Azure Architecture and Service (35% - 40%)
 - Describe Azure management and governance (30% - 35%)
 
