@@ -74,6 +74,17 @@
     - Governance Benefit
       - IT Governance
       - Business Governance
+      - HIPAA / PCC / GDPR other policy
+      - Custom roles
+    - Manageability
+      - Manager the application in the cloud
+      - Manager the cloud
+  - Cloud Service Type
+    - As a Service:
+      - Service can be rented for a short time
+    - IaaS
+    - PaaS
+    - SaaS
 - Describe Azure Architecture and Service (35% - 40%)
 - Describe Azure management and governance (30% - 35%)
 
