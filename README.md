@@ -31,6 +31,24 @@
       - API Choice
       - Serverless
       - Backup Storage
+    - Payment 
+      - Pay for time
+      - Pay for GB
+      - Pay for Operations
+  - Describe the benefits of using cloud services
+    - High Availability (HA)
+      - Planned Outage
+        - Operating gSystem patches
+        - Hardware replacement
+        - Migrating to a new hosting provider
+      - Unplanned Outage
+        - Power Outage
+        - Hardware Failure
+        - Network Disruptions
+        - natural Disasters
+        - Cyber Attacks
+        - Software Bugs
+        - Poor scaling
 - Describe Azure Architecture and Service (35% - 40%)
 - Describe Azure management and governance (30% - 35%)
 
