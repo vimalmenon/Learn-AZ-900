@@ -63,6 +63,17 @@
     - Reliability
       - Ability to perform intended function without <b>interruption</b> and <b>high degree of accuracy</b>
       - Accuracy and without interruption is the key
+    - Predictability
+      - Ability to forecast performance and behavior of the system
+      - Predict the bill
+    - Security Benefit
+      - Provide Security Audit
+      - Meet the standards
+      - Security Patches are been taken care off
+      - Handle HTTPS
+    - Governance Benefit
+      - IT Governance
+      - Business Governance
 - Describe Azure Architecture and Service (35% - 40%)
 - Describe Azure management and governance (30% - 35%)
 
