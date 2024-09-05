@@ -102,7 +102,12 @@
     - Serverless
       - Database Service
       - Serverless Function
+      - Container Apps
+      - Kubernetes
+      - SQL database
+      - Cosmos DB
 - Describe Azure Architecture and Service (35% - 40%)
+  - Region
 - Describe Azure management and governance (30% - 35%)
 
 
