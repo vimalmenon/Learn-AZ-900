@@ -4,8 +4,18 @@
 - Describe cloud computing (25% - 30%)
   - Define cloud computing
   - Describe the shared responsibility model
-    - Hand over responsibility to cloud provider
-  - 
+    - On Premise - Full Responsibility
+    - Cloud Virtual Machine - Less Responsibility
+    - Cloud App Service - Less Responsibility
+    - Cloud Saas - Less Responsibility
+  - Define cloud models, including public, private, and hybrid
+    - Public Cloud
+      - Azure owns the hardware, on their network and infra
+    - Private Cloud
+      - It's cloud is only on invitation basis to selected users
+      - Azure provide private Cloud
+    - Hybrid Cloud
+      - 
   
 - Describe Azure Architecture and Service (35% - 40%)
 - Describe Azure management and governance (30% - 35%)
