@@ -19,6 +19,18 @@
       - Best of both worlds
     - Difference between public vs private vs hybrid
   - Compare cloud pricing models
+    - Factors Affecting the cost
+      - Geo Region
+      - Operating System / License
+      - Instance Size
+      - Disk Type
+      - Bandwidth
+      - Backup Storage
+      - Reservation
+      - Support Agreement
+      - API Choice
+      - Serverless
+      - Backup Storage
 - Describe Azure Architecture and Service (35% - 40%)
 - Describe Azure management and governance (30% - 35%)
 
