@@ -108,6 +108,8 @@
       - Cosmos DB
 - Describe Azure Architecture and Service (35% - 40%)
   - Region
+  - Region Pairs
+  - Soviet Region
 - Describe Azure management and governance (30% - 35%)
 
 
