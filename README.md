@@ -112,7 +112,6 @@
   - Soviet Region
 - Describe Azure management and governance (30% - 35%)
 
-
 Need to Understand:
 - MS Defender for cloud
 - MS Trust Portal
@@ -120,7 +119,21 @@ Need to Understand:
 - Service Health
 - Resource Health
 - Service Trust
+- Private Endpoint
 
+- Availability zones are implemented in all Azure regions.
+No
+
+- To achieve 99.99 % of Availability how many number os Virtual Machine are minimum required.
+Number of Virtual Machine     -   2
+Number of Availability zone   -   2 
+
+-
+
+
+
+
+Availity 
 
 #### Links:
  - [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
