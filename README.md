@@ -122,18 +122,16 @@ Need to Understand:
 - Private Endpoint
 
 - Availability zones are implemented in all Azure regions.
-No
+- [ ] No
 
 - To achieve 99.99 % of Availability how many number os Virtual Machine are minimum required.
-Number of Virtual Machine     -   2
-Number of Availability zone   -   2 
+- [ ] Number of Virtual Machine     -   2
+- [ ] Number of Availability zone   -   2 
 
--
-
-
+- 
 
 
-Availity 
+ 
 
 #### Links:
  - [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
