@@ -28,6 +28,15 @@ ARM template can have multiple resource
  - Your Company has Software Assurance agreement that includes MS SQL Server licenses, You plan to deploy SQA server on Azure VM, What should you do to minimize licensing costs for the deployment?
 - [x] Azure Hybrid Benefits
 ---
+- A premier Support plan can only be purchased by companies that have Enterprise Agreement(EA)
+- [x] Yes
+---
+- Premium Block blob storage accounts only support which of the following redundancy?
+- [x] Zone redundant Storage
+---
+- Which of the following can be used to enable Just in time (JIT) VM Access
+- [x] Zone Defender for cloud
+---
 - Azure Traffic Manager Profile
   - DNS Profile
 - Azure Cost Management Tool
@@ -36,3 +45,5 @@ ARM template can have multiple resource
   - Provide Global View of the status of Azure
 - Microsoft Defender for Cloud
   - MS defender for cloud compares the configuration of your resources with requirements in industry stands, regulation and benchmarks
+- Azure Trust Center
+  - Provides information about the Azure compliance offering
