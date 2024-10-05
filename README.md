@@ -120,7 +120,7 @@ Need to Understand:
 - Resource Health
 - Service Trust
 - Private Endpoint
-
+- Azure Sentinel
 
  
 

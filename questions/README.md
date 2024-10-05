@@ -12,12 +12,13 @@
 - Azure Arc can manager a third-party DB solution hosted outside of Azure
 - [x] No
 ---
-
+-  A network security group will block all network traffic by default
+- [x] No
 
 ---
-Azure Traffic Manager Profile
-- DNS Profile
-Azure Cost Management Tool
-- Provider cost management to the user / Company
-Azure Service Health
-- Provide Global View of the status of Azure
+- Azure Traffic Manager Profile
+    - DNS Profile
+- Azure Cost Management Tool
+    - Provider cost management to the user / Company
+- Azure Service Health
+    - Provide Global View of the status of Azure
