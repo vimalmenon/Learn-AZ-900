@@ -5,6 +5,9 @@
 - Every Azure Region has Multiple Data Center
 - [x] Yes
 ---
+- How many availability zones are there in each region (for regions that have them)?
+- [x] 3
+---
 - To achieve 99.99 % of Availability how many number os Virtual Machine are minimum required.
 - [x] Number of Virtual Machine     -   2
 - [x] Number of Availability zone   -   2 
