@@ -2,6 +2,9 @@
 - Availability zones are implemented in all Azure regions.
 - [x] No
 ---
+- Every Azure Region has Multiple Data Center
+- [x] Yes
+---
 - To achieve 99.99 % of Availability how many number os Virtual Machine are minimum required.
 - [x] Number of Virtual Machine     -   2
 - [x] Number of Availability zone   -   2 
@@ -36,9 +39,6 @@ ARM template can have multiple resource
 ---
 - Which of the following can be used to enable Just in time (JIT) VM Access
 - [x] Zone Defender for cloud
----
-- Every Azure Region has Multiple Data Center
-- [x] Yes
 ---
 - At which OSI layer does the ExpressRoute operate?
 - [x] Layer 3 (network Layer)
