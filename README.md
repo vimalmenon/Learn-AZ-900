@@ -121,15 +121,6 @@ Need to Understand:
 - Service Trust
 - Private Endpoint
 
-- Availability zones are implemented in all Azure regions.
-- [ ] No
-
-- To achieve 99.99 % of Availability how many number os Virtual Machine are minimum required.
-- [ ] Number of Virtual Machine     -   2
-- [ ] Number of Availability zone   -   2 
-
-- 
-
 
  
 
