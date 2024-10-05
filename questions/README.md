@@ -37,6 +37,9 @@ ARM template can have multiple resource
 - Which of the following can be used to enable Just in time (JIT) VM Access
 - [x] Zone Defender for cloud
 ---
+- Every Azure Region has Multiple Data Center
+- [x] Yes
+---
 - Azure Traffic Manager Profile
   - DNS Profile
 - Azure Cost Management Tool
