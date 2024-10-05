@@ -14,7 +14,9 @@
 ---
 -  A network security group will block all network traffic by default
 - [x] No
-
+---
+- Application security group can be specified as part of network security group(NSG)
+- [x] Yes
 ---
 - Azure Traffic Manager Profile
     - DNS Profile
