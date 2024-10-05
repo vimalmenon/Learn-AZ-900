@@ -18,9 +18,21 @@
 - Application security group can be specified as part of network security group(NSG)
 - [x] Yes
 ---
+- Each Azure Resource to be deployed requires as separate Azure resource manager Template
+- [x] No
+ARM template can have multiple resource
+---
+- Which of the following to use to evaluate your companies azure environment meets regulatory requirements.
+- [x] Azure Defender for Cloud
+ ---
+ - Your Company has Software Assurance agreement that includes MS SQL Server licenses, You plan to deploy SQA server on Azure VM, What should you do to minimize licensing costs for the deployment?
+- [x] Azure Hybrid Benefits
+---
 - Azure Traffic Manager Profile
-    - DNS Profile
+  - DNS Profile
 - Azure Cost Management Tool
-    - Provider cost management to the user / Company
+  - Provider cost management to the user / Company
 - Azure Service Health
-    - Provide Global View of the status of Azure
+  - Provide Global View of the status of Azure
+- Microsoft Defender for Cloud
+  - MS defender for cloud compares the configuration of your resources with requirements in industry stands, regulation and benchmarks

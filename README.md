@@ -113,7 +113,7 @@
 - Describe Azure management and governance (30% - 35%)
 
 Need to Understand:
-- MS Defender for cloud
+- Azure Knowledge Center
 - MS Trust Portal
 - MS purview
 - Service Health
