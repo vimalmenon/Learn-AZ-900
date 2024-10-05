@@ -113,5 +113,14 @@
 - Describe Azure management and governance (30% - 35%)
 
 
+Need to Understand:
+- MS Defender for cloud
+- MS Trust Portal
+- MS purview
+- Service Health
+- Resource Health
+- Service Trust
+
+
 #### Links:
  - [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
