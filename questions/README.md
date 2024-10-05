@@ -12,6 +12,12 @@
 - [x] Number of Virtual Machine     -   2
 - [x] Number of Availability zone   -   2 
 ---
+- Your organization requires detailed auditing of who accesses and modifies data in azure blob storage. Which azure feature or service providers access logs and audit trails ?
+- [x] Azure Blog storage analytics
+---
+- Your company stores sensitive customer data in Azure. Which Azure service helps you automatically classify and label data based on it's sensitivity to enforce data protection policies?
+- Azure Purview
+---
 - Where does Azure Monitor store event data?
 - [x] A Log Analytics Workspace
 ---
@@ -57,7 +63,9 @@ ARM template can have multiple resource
 ---
 - Azure Traffic Manager Profile
   - DNS Profile
-- Azure Cost Management Tool
+- Azure Preview
+  - It's unified data governance solution to help manage and govern your on-premises, multicloud, and software as a service (SaaS) data
+- Azure Cost Management Tool (Paid Service)
   - Provider cost management to the user / Company
 - Azure Service Health
   - Provide Global View of the status of Azure
