@@ -37,6 +37,9 @@ ARM template can have multiple resource
 - Which of the following to use to evaluate your companies azure environment meets regulatory requirements.
 - [x] Azure Defender for Cloud
  ---
+ - A company wants to have an enterprise messing solution integrated with the existing application hosted within MS Azure. Which of the following should the company use for their requirement?
+ - [x] Service Bus
+  ---
  - Your Company has Software Assurance agreement that includes MS SQL Server licenses, You plan to deploy SQA server on Azure VM, What should you do to minimize licensing costs for the deployment?
 - [x] Azure Hybrid Benefits
 ---
@@ -64,7 +67,7 @@ ARM template can have multiple resource
 - Azure Traffic Manager Profile
   - DNS Profile
 - Azure Preview
-  - It's unified data governance solution to help manage and govern your on-premises, multicloud, and software as a service (SaaS) data
+  - It's unified data governance solution to help manage and govern your on-premises, multi-cloud, and software as a service (SaaS) data
 - Azure Cost Management Tool (Paid Service)
   - Provider cost management to the user / Company
 - Azure Service Health
@@ -73,3 +76,5 @@ ARM template can have multiple resource
   - MS defender for cloud compares the configuration of your resources with requirements in industry stands, regulation and benchmarks
 - Azure Trust Center
   - Provides information about the Azure compliance offering
+- Service Bus
+  - Allows to send messaging with existing application

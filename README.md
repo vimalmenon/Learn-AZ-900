@@ -115,7 +115,6 @@
 Need to Understand:
 - Azure Knowledge Center
 - MS Trust Portal
-- MS purview
 - Service Health
 - Resource Health
 - Service Trust
