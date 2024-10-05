@@ -40,6 +40,18 @@ ARM template can have multiple resource
 - Every Azure Region has Multiple Data Center
 - [x] Yes
 ---
+- At which OSI layer does the ExpressRoute operate?
+- [x] Layer 3 (network Layer)
+---
+- You Need to collect and automatically analyze security events from Azure Active Directory, What should you use?
+- [x] Microsoft Sentinel
+---
+- Azure DDoS is an example of a production mechanism implemented at 
+- [x] Network Layer
+---
+- Azure Files is an example of IaaS?
+- [x] No (it is PaaS)
+---
 - Azure Traffic Manager Profile
   - DNS Profile
 - Azure Cost Management Tool
