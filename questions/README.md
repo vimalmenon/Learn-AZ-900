@@ -77,6 +77,9 @@ ARM template can have multiple resource
 - You need to ensure that when Azure Active Directory uses connect to it from internet from using an Anonymous IP address, the users are prompted automatically to change their password. which Azure service should you use?
 - [x] Azure AD identity Protection
 ---
+- You can create Group Policies in Azure Active Directory(Azure AD)
+- [x] False (Azure Active Directory Domain Services support it)
+---
 - Azure Traffic Manager Profile
   - DNS Profile
 - Azure Preview
