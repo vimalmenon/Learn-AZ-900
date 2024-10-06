@@ -92,6 +92,12 @@ ARM template can have multiple resource
 - An Azure Subscription can be managed by using a MS account only
 - [x] No
 ---
+- Which Factor always increases your network costs no matter how your Azure topology is constructed?
+- [x] The amount of outbound data
+---
+- You have an Azure subscription and multiple windows10 devices. You need to ensure that only users whose devices have latest security patches installed can access Azure AD integrated applications. What should you implement?
+- [x] Conditional Access policy
+---
 - Azure Traffic Manager Profile
   - DNS Profile
 - Azure Preview
