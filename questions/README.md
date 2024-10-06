@@ -80,6 +80,9 @@ ARM template can have multiple resource
 - You can create Group Policies in Azure Active Directory(Azure AD)
 - [x] False (Azure Active Directory Domain Services support it)
 ---
+- What do you call the Strategy of Layering multiple Security defenses on top of each other to provider stronger protection than any single mechanism alone?
+- [x] Defense in Depth
+---
 - Azure Traffic Manager Profile
   - DNS Profile
 - Azure Preview
