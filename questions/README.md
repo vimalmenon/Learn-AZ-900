@@ -117,7 +117,13 @@ ARM template can have multiple resource
 - [x] Azure Service Health
 ---
 - A company is considering using Linux-based Azure container instances to deploy a simple application. The application runs a stateful application. Which service sn be used to provide storage to retrieve and persist data?
-- Azure File
+- [x] Azure File
+---
+- Which feature of azure monitor allows you to visually analyze telemetry data by integrating with Visual studio?
+- [x] Application Insights
+---
+- Which of the following is required to Access Cloud Shell?
+- [x] Storage account
 ---
 - Azure Traffic Manager Profile
   - DNS Profile
