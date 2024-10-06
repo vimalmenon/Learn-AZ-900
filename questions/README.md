@@ -64,7 +64,7 @@ ARM template can have multiple resource
 - Azure Files is an example of IaaS?
 - [x] No (it is PaaS)
 ---
--What two types of DDoS protection services does Azure provide? Select two.
+- What two types of DDoS protection services does Azure provide? Select two.
 - [x] DDoS Network Protection
 - [x] DDoS IP Protection
 ---
