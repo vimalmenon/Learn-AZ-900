@@ -64,6 +64,16 @@ ARM template can have multiple resource
 - Azure Files is an example of IaaS?
 - [x] No (it is PaaS)
 ---
+-What two types of DDoS protection services does Azure provide? Select two.
+- [x] DDoS Network Protection
+- [x] DDoS IP Protection
+---
+- Azure Powershell scripts and Command Line Interface (CLI) scripts are entirely compatible with each other?
+- [x] FALSE
+---
+- Which of the following is something that Azure Cognitive Services API can currently do?
+- [x] All of these! Azure can do it all!
+---
 - Azure Traffic Manager Profile
   - DNS Profile
 - Azure Preview
