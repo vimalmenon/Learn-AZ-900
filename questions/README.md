@@ -104,6 +104,12 @@ ARM template can have multiple resource
 - A resources group can have the owner role assigned to multiple users
 - [x] Yes
 ---
+- Azure Active Directory lets you set Dynamic membership rules?
+- [x] Yes
+---
+- What should you use in Azure Sentinel to see visualization of an incident in relation to alert and entities?
+- [x] Investigation Graph
+---
 - Azure Traffic Manager Profile
   - DNS Profile
 - Azure Preview
