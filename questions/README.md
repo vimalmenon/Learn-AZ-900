@@ -37,7 +37,7 @@ ARM template can have multiple resource
 - Which of the following to use to evaluate your companies azure environment meets regulatory requirements.
 - [x] Azure Defender for Cloud
 ---
- - A company wants to have an enterprise messing solution integrated with the existing application hosted within MS Azure. Which of the following should the company use for their requirement?
+ - A company wants to have an enterprise messaging solution integrated with the existing application hosted within MS Azure. Which of the following should the company use for their requirement?
  - [x] Service Bus
 ---
  - Your Company has Software Assurance agreement that includes MS SQL Server licenses, You plan to deploy SQA server on Azure VM, What should you do to minimize licensing costs for the deployment?
