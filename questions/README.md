@@ -83,6 +83,15 @@ ARM template can have multiple resource
 - What do you call the Strategy of Layering multiple Security defenses on top of each other to provider stronger protection than any single mechanism alone?
 - [x] Defense in Depth
 ---
+- What does it mean when an Azure service feature is in private preview?
+- [x] This feature is being beta tested by azure customers with enterprise subscription.
+---
+- Each Azure subscription can contain multiple Account Administrators
+- [x] No
+---
+- An Azure Subscription can be managed by using a MS account only
+- [x] No
+---
 - Azure Traffic Manager Profile
   - DNS Profile
 - Azure Preview
