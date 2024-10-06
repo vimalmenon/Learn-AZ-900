@@ -125,6 +125,9 @@ ARM template can have multiple resource
 - Which of the following is required to Access Cloud Shell?
 - [x] Storage account
 ---
+- A company needs to implement Azure policies to automatically add a watermark to MS word documents that contain credit card information. Which Azure service can they utilize to implement the requirement?
+- [x] Azure Information Production(AIP)
+---
 - Azure Traffic Manager Profile
   - DNS Profile
 - Azure Preview
