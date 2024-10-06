@@ -98,6 +98,12 @@ ARM template can have multiple resource
 - You have an Azure subscription and multiple windows10 devices. You need to ensure that only users whose devices have latest security patches installed can access Azure AD integrated applications. What should you implement?
 - [x] Conditional Access policy
 ---
+- A user account can be assigned to multiple azure roles.
+- [x] Yes
+---
+- A resources group can have the owner role assigned to multiple users
+- [x] Yes
+---
 - Azure Traffic Manager Profile
   - DNS Profile
 - Azure Preview
