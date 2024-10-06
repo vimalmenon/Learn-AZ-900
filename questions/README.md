@@ -113,6 +113,12 @@ ARM template can have multiple resource
 - Which of the following can you use to view which user turned off a specific virtual machine during last 14 days
 - [x] Azure Activity log
 ---
+- Which Azure component provides information about Azure services incidents and planned maintenance so that you can take action to migration downtime?
+- [x] Azure Service Health
+---
+- A company is considering using Linux-based Azure container instances to deploy a simple application. The application runs a stateful application. Which service sn be used to provide storage to retrieve and persist data?
+- Azure File
+---
 - Azure Traffic Manager Profile
   - DNS Profile
 - Azure Preview
