@@ -110,6 +110,9 @@ ARM template can have multiple resource
 - What should you use in Azure Sentinel to see visualization of an incident in relation to alert and entities?
 - [x] Investigation Graph
 ---
+- Which of the following can you use to view which user turned off a specific virtual machine during last 14 days
+- [x] Azure Activity log
+---
 - Azure Traffic Manager Profile
   - DNS Profile
 - Azure Preview
